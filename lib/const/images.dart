@@ -1,0 +1,10 @@
+const String onBording = "assets/image/bgonbording.png";
+const String UpImage = 'assets/image/bg.svg';
+const String IconUser = "assets/image/user.svg";
+const String IconUserMember = "assets/image/member.svg";
+const String IconMail = "assets/image/mail.svg";
+const String IconPasswordLock = "assets/image/password.svg";
+const String IconFacebook = "assets/image/facebook.svg";
+const String IconGmail = "assets/image/gmail.svg";
+const String IconInstagram = "assets/image/instagram.svg";
+const String Searchicon = "assets/image/search.svg";
